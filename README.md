@@ -29,3 +29,21 @@ print("= NIM     : 312010151         ") <br>
 print("= KELAS   : TI.20 A.1         ") <br>
 print("==============================") <br>
 
+`print("Please enter your full name : MOH. TAUFIK RAUF")` <br>
+`fullname=input()` <br>
+`print("Please enter nickname : TAUFIK")` <br>
+`nickname=input()` <br>
+`print("Please enter your NPM : 312010151")` <br>
+`npm=input()` <br>
+`print("Please enter place of birth : GORONTALO")` <br>
+`pob=input()` <br>
+`print("Please enter date of birth : 19")` <br> 
+`date=input()` <br>
+`print("Please enter your month of birth : APRIL")` <br>
+`month=input()` <br>
+`print("Please enter year of birth : 2002") <br>
+`year=int(input())` <br>
+`print("Please enter your phone number : 082189289710")`
+`phone=input()`
+`print("Please enter your address : SUKADAMI")`
+`address=input()`
