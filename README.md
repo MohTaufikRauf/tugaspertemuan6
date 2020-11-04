@@ -19,3 +19,13 @@ Pada pertemuan 5 Bahasa Pemrograman saya diberi tugas oleh dosen untuk membuat A
 
 ![Tugas](Gambar/upik.png)
 
+Saat ini saya akan menjelaskan hasil dari tugas tersebut. <br>
+Berikut *source code* nya atau Klik Link berikut ([pertemuan_5 python](pertemuan_5.py)): <br>
+```python <br>
+
+print("==============================") <br> 
+print("= NAMA    : MOH. TAUFIK RAUF  ") <br>
+print("= NIM     : 312010151         ") <br>
+print("= KELAS   : TI.20 A.1         ") <br>
+print("==============================") <br>
+
